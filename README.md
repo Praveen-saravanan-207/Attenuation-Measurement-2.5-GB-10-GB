@@ -70,7 +70,8 @@ Using the power budget equation and the parameters below, determine the attenuat
 <img width="974" height="731" alt="Screenshot 2026-05-20 090032" src="https://github.com/user-attachments/assets/e329e0fe-faa1-458b-9598-ab8d5e8fde95" />
 
 ## TABULATION 
-![Uploading image.png…]()
+
+<img width="1600" height="1211" alt="image" src="https://github.com/user-attachments/assets/4f7fa96d-dea9-42f7-9999-0e75db1e7051" />
 
 
 
@@ -83,7 +84,9 @@ Using the power budget equation and the parameters below, determine the attenuat
 <img width="1087" height="785" alt="image" src="https://github.com/user-attachments/assets/2a2756e1-86a3-4085-9272-ef75f60b0540" />
 
 ## TABULATION 
-![Uploading image.png…]()
+<img width="1600" height="1368" alt="image" src="https://github.com/user-attachments/assets/4f649299-d0d0-41cb-860b-92338a03ff3a" />
+
+
 
 
 
